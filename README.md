@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad Hasbi Saputra</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
-- 🔭 I’m currently working on **a project for a contest. I can't tell yet. It Still got no name**
+- 🔭 I’m currently working on **a project for my brother**
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **GatsbyJs**
 
 - 👯 I’m looking to collaborate on **any frontend projects using ReactJs, JavaScript, Html, and/or css/scss.**
 
